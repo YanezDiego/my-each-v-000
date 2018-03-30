@@ -10,7 +10,7 @@ def my_each (array) # put argument(s) here
       end
       array
     else
-      puts "Was there a block given?"
+     "Was there a block given?"
     end
 
 binding.pry
