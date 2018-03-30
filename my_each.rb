@@ -1,4 +1,4 @@
-require 'pry'
+#require 'pry'
 
 def my_each (array) # put argument(s) here
   # code here
@@ -13,5 +13,5 @@ def my_each (array) # put argument(s) here
      "Was there a block given?"
     end
 
-binding.pry
+#binding.pry
 end
